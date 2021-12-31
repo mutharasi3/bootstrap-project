@@ -1,0 +1,244 @@
+.navbar-nav{
+    justify-content: end;
+    flex: auto;
+}
+.nav-item a:hover{
+    color: green;
+}
+.nav-item a{
+    color: black;
+}
+.navbar-brand:hover{
+    color: green;
+}
+.navbar-brand{
+    color: green;
+}
+.navbar-toggler{
+    border: 1px solid transparent;
+    border-radius: 0.25rem;
+}
+ .navbar-toggler-icon{
+    color: rgba(0,0,0,.5);
+    background-color: grey;
+    border-color: rgba(0,0,0,.1);
+}
+
+
+.banner-sec{
+    background-image: url('../image/hero-bg.jpg');
+    height: 400px;
+    background-position: right top;
+    background-attachment: fixed;
+    background-size: cover;
+}
+.btn{
+    /* width: 140px; */
+    /* height: 40px; */
+    border: 2px solid green;
+}
+.banner-sec h1{
+   
+    font-family: 'Poppins', sans-serif;
+    
+    color: white;
+    padding-top: 80px;
+}
+.banner-sec h5{
+    
+    color: white;
+    font-family: 'Raleway', sans-serif;
+}
+.button-sec{
+    margin-top: 30px;
+    margin-left: 5px;
+
+}
+.banner-sec h1{
+    font-size: 26px;
+    color: white
+}
+.about-sec{
+    margin-top: 25px;
+}
+.about-sec h5{
+    font-family: "Raleway", sans-serif;
+    font-weight: 600;
+    font-size: 26px;
+}
+.about-sec p{
+    font-style: italic;
+    font-size: 16px;
+}
+.about-sec li{
+    padding-bottom: 10px;
+}
+.statistics-sec{
+margin: 30px;
+    background-color: #f6f7f6;
+}
+.statistics-sec h2{
+    padding-top: 40px;
+    padding-bottom: 5px;
+    font-size: 48px;
+    color: #5fcf80;
+    font-weight: 700;
+}
+.statistics-sec h5{
+    font-family: "Raleway", sans-serif;
+    font-size: 15px;
+    font-weight: 600;
+    color: #37423b;
+}
+.start-sec{
+    margin-top: 20px;
+    border: 2px solid #5fcf80;
+    padding: 20px;
+    padding-right: 20px;
+    background-color: #5fcf80;
+    height: 450px;
+
+    
+}
+.start-sec h3{
+    font-size: 34px;
+    font-family: 'Poppins', sans-serif;
+    font-weight: bold;
+    color: #fff;
+    padding-left: 10px;
+}
+.start-sec p{
+    padding-top: 20px;
+    font-size: 16px;
+    padding-left: 10px;
+    padding-right: 30px;
+    line-height: 1.7;
+    color: white;
+}
+.start-sec button{
+    border: 1px solid #7fd999;
+    border-radius: 20px;
+    margin-left: 100px;
+    padding: 10px 25px;
+    margin-bottom: 10px;
+    background-color: #7fd999;
+    color: white;
+}
+
+.box-sec{
+    margin-top: 80px;
+    border: 1px solid white;
+    margin-left: 20px;
+}
+.icofont-list{
+    color: green;
+    font-size: 20px;
+    margin-left: 50px;
+    border: 2px solid #ecf9f0;
+    background-color: #ecf9f0;
+    border-radius: 70%;
+    padding: 20px;
+    }
+    .icofont-dice{
+        
+    color: green;
+    font-size: 20px;
+    margin-left: 50px;
+    border: 2px solid #ecf9f0;
+    background-color: #ecf9f0;
+    border-radius: 70%;
+    padding: 20px;
+    }
+    .icofont-image{
+        color: green;
+    font-size: 20px;
+    margin-left: 50px;
+    border: 2px solid #ecf9f0;
+    background-color: #ecf9f0;
+    border-radius: 70%;
+    padding: 20px;
+    }
+    .box-sec h4{
+        margin-top: 60px;
+        text-align: center;
+        font-size: 20px;
+        }
+        .box-sec p{
+            padding-top: 30px;
+            font-size: 15px;
+            padding-left: 5px;
+        color: #848484;
+        }
+    .icofont-basket{
+        color: orange;
+        font-size: 30px;
+    }
+    .icofont-bars{
+        color: blue;
+        font-size: 30px;
+    }
+    .icofont-tasks-alt{
+        color: crimson;
+        font-size: 30px;
+    }
+    .icofont-vector-path{
+        color: darkmagenta;
+        font-size: 30px;
+    }
+    .icofont-database{
+        color: darkturquoise;
+        font-size: 30px;
+    }
+    .icofont-dashboard{
+    color: rgb(240, 164, 24);
+    font-size: 30px;
+    }
+    .icofont-ebook{
+        color: aqua;
+        font-size: 30px;
+    }
+    .icofont-eject{
+        color: cornflowerblue;
+        font-size: 30px;
+    }
+    .icofont-usb{
+        color: lightseagreen;
+        font-size: 30px;
+    }
+    .icofont-speed-meter{
+        color: brown;
+        font-size: 30px;
+    }
+    .icofont-network-tower{
+        color: orangered;
+    font-size: 30px;
+}
+.icofont-touch{
+    color: green;
+    font-size: 30px;
+}
+.list-sec{
+    margin-top: 30px;
+}
+.type-sec h5{
+    margin-top: 20px;
+    border: 1px solid grey;
+    padding:20px 20px;
+}
+.type-sec h5:hover{
+    border-color: green;
+}
+.type-sec a{
+    color: black;
+    font-size: 16px;
+    text-decoration: none;
+    }
+.type-sec a:hover{
+    color: green;
+    text-decoration: none;
+}
+.team-sec img{
+    height: 250px;
+    width: 350px;
+    margin-top: 30px;
+}
